@@ -145,7 +145,7 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
-    margin-left: 80px;
+    margin-left: 100px;
   }
 
   #title {
